@@ -56,3 +56,11 @@ sub{
 img{
     max-width: 100%;
 }
+.wrap{
+    max-width: 100%;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
